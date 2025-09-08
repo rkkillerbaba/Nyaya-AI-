@@ -1,0 +1,5 @@
+[
+  { "id": 1, "title": "State vs John Doe", "description": "Murder trial with circumstantial evidence." },
+  { "id": 2, "title": "Jane Roe vs City Corp", "description": "Property dispute involving zoning laws." },
+  { "id": 3, "title": "ACME Ltd vs XYZ Pvt Ltd", "description": "Breach of contract in supply chain." }
+]
